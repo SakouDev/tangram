@@ -1,0 +1,32 @@
+.tangram--turtle {
+    transform: scale(1.1);
+    transition: 2s;
+}
+.tangram--turtle .figure1 {
+    transform: rotate(135deg) translate(-375px,-505px);
+    transition: transform 2s;
+}
+.tangram--turtle .figure2 {
+    transform: rotate(-135deg) skew(45deg) translate(-85px,-155px);
+    transition: transform 2s;
+}
+.tangram--turtle .figure3 {
+    transform: translate(-310px,-85px);
+    transition: transform 2s;
+}
+.tangram--turtle .figure4 {
+    transform: rotate(90deg) translate(155px,-570px);
+    transition: transform 2s;
+}
+.tangram--turtle .figure5 {
+    transform: rotate(135deg) translate(-625px,-500px);
+    transition: transform 2s;
+}
+.tangram--turtle .figure6 {
+    transform: translate(-72px,157px);
+    transition: transform 2s;
+}
+.tangram--turtle .figure7 {
+    transform: rotate(-135deg) translate(-500px,-150px);
+    transition: transform 2s;
+}

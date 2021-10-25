@@ -1,0 +1,32 @@
+.tangram--lucf {
+    transform: scale(0.7);
+    transition: 2s;
+}
+.tangram--lucf .figure1 {
+    transform: translate(512px,246px) rotate(180deg);;
+    transition: transform 2s;
+}
+.tangram--lucf .figure2 {
+    transform: skew(-45deg) translate(22px,-28px) rotate(180deg);
+    transition: transform 2s;
+}
+.tangram--lucf .figure3 {
+    transform: translate(256px,512px) rotate(45deg);
+    transition: transform 2s;
+}
+.tangram--lucf .figure4 {
+    transform: translate(366px,25px) rotate(-135deg);
+    transition: transform 2s;
+}
+.tangram--lucf .figure5 {
+    transform: translate(132px,-105px) rotate(45deg);
+    transition: transform 2s;
+}
+.tangram--lucf .figure6 {
+    transform: translate(380px,-148px) rotate(0deg);
+    transition: transform 2s;
+}
+.tangram--lucf .figure7 {
+    transform: translate(0px,777px) rotate(0deg);
+    transition: transform 2s;
+}

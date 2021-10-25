@@ -1,0 +1,32 @@
+.tangram--butterfly {
+    transform: scale(0.9);
+    transition: 2s;
+}
+.tangram--butterfly .figure1 {
+    transform: rotate(-95deg) translate(-542px, 410px);
+    transition: transform 2s;
+}
+.tangram--butterfly .figure2 {
+    transform: rotate(85deg) skew(-45deg) translate(-124px, -405px);
+    transition: transform 2s;
+}
+.tangram--butterfly .figure3 {
+    transform: rotate(70deg) translate(475px, -155px);
+    transition: transform 2s;
+}
+.tangram--butterfly .figure4 {
+    transform: rotate(25deg) translate(187px, 222px);
+    transition: transform 2s;
+}
+.tangram--butterfly .figure5 {
+    transform: rotate(-05deg) translate(22px, -110px);
+    transition: transform 2s;
+}
+.tangram--butterfly .figure6 {
+    transform: rotate(205deg) translate(-577px, -615px);
+    transition: transform 2s;
+}
+.tangram--butterfly .figure7 {
+    transform: rotate(25deg) translate(-71px, 227px);
+    transition: transform 2s;
+}

@@ -1,0 +1,32 @@
+.tangram--rabbit{
+    transform: scale(0.8);
+    transition: 2s;
+}
+.tangram--rabbit .figure1 {
+    transform: translate(340px, 800px) rotate(270deg);
+    transition: transform 2s;
+}
+.tangram--rabbit .figure2 {
+    transform: translate(510px, -234px) rotate(135deg) skew(45deg);
+    transition: transform 2s;
+}
+.tangram--rabbit .figure3 {
+    transform: translate(57px, -44px);
+    transition: transform 2s;
+}
+.tangram--rabbit .figure4 {
+    transform: translate(148px, 800px) rotate(-45deg);
+    transition: transform 2s;
+}
+.tangram--rabbit .figure5 {
+    transform: translate(-114px, 430px) rotate(-45deg);
+    transition: transform 2s;
+}
+.tangram--rabbit .figure6 {
+    transform: translate(238px, 555px) rotate(180deg);
+    transition: transform 2s;
+}
+.tangram--rabbit .figure7 {
+    transform: translate(430px, 258px) rotate(45deg);
+    transition: transform 2s;
+}

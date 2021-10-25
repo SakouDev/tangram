@@ -1,0 +1,32 @@
+.tangram--cat {
+    transform: scale(0.9);
+    transition: 2s;
+}
+.tangram--cat .figure1 {
+    transform: rotate(180deg) translate(-370px, -383px) ;
+    transition: transform 2s;
+}
+.tangram--cat .figure2 {
+    transform: rotate(135deg) skew(45deg) translate(812px, -1116px);
+    transition: transform 2s;
+}
+.tangram--cat .figure3 {
+    transform: rotate(45deg) translate(163px, -263px);
+    transition: transform 2s;
+}
+.tangram--cat .figure4 {
+    transform: rotate(270deg) translate(-52px, 167px);
+    transition: transform 2s;
+}
+.tangram--cat .figure5 {
+    transform: rotate(180deg) translate(-890px, -640px);
+    transition: transform 2s;
+}
+.tangram--cat .figure6 {
+    transform: rotate(180deg) translate(-434px, -53px);
+    transition: transform 2s;
+}
+.tangram--cat .figure7 {
+    transform: rotate(135deg) translate(-171px, -983px);
+    transition: transform 2s;
+}

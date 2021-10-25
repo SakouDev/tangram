@@ -1,0 +1,35 @@
+body {
+    overflow: hidden;
+}
+.tangram--lucv {
+    transform: scale(0.8);
+    transition: 2s;
+}
+.tangram--lucv .figure1 {
+    transform: translate(275px,-241px) rotate(45deg);
+    transition: transform 2s;
+}
+.tangram--lucv .figure2 {
+    transform: rotate(-45deg) skew(-45deg) translate(647px,496px);
+    transition: transform 2s;
+}
+.tangram--lucv .figure3 {
+    transform: translate(275px,-55px) rotate(45deg);
+    transition: transform 2s;
+}
+.tangram--lucv .figure4 {
+    transform:  translate(375px,850px) rotate(270deg);
+    transition: transform 2s;
+}
+.tangram--lucv .figure5 {
+    transform: translate(-275px,585px) rotate(-45deg);
+    transition: transform 2s;
+}
+.tangram--lucv .figure6 {
+    transform:  translate(175px,850px) rotate(180deg);
+    transition: transform 2s;
+}
+.tangram--lucv .figure7 {
+    transform: translate(269px,26px) rotate(45deg);
+    transition: transform 2s;
+}
